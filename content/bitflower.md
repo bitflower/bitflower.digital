@@ -18,7 +18,7 @@ Alternative: Lass uns etwas Schönes schaffen. Durchdacht. Funktional. Zuverläs
 
 (links)
 
-Wir nennen es "beautiful coding". Und unterstützen damit moderne Unternehmen beim Aufbau ihres digitalen Geschäftsmodells. Wir begleiten sie von der Idee bis zum einsatzbereiten Produkt/kommerziellen Erfolg indem wir technisches Know-How, Design und betriebswirtschaftliche Expertise kombinieren.
+Wir nennen es "beautiful coding". Und unterstützen damit moderne Unternehmen beim Aufbau ihres digitalen Geschäftsmodells. Wir begleiten dich von der Idee bis zum einsatzbereiten Produkt/kommerziellen Erfolg indem wir technisches Know-How, Design und betriebswirtschaftliche Expertise kombinieren.
 
 - ... coding" - die Kunst Technologie, Design und Businessziele unter einen Hut zu bringen.
 
@@ -47,9 +47,10 @@ Qualität Made in Germany hat ihren Preis. Nicht jedoch wenn man Dinge schlank u
 
 - Lean
 
-### Ein Team
 
-Alternative: Schnell starten und zusammen wachsen
+### Schnell starten und zusammen wachsen
+
+Alternative: Ein Team
 
 Nutze unsere Erfahrung und Werkzeuge von Anfang an um schnell Resultate zu erleben. Unser Team begleitet Dich bei jedem Entwicklungszyklus. Werde Teil des Teams - zusammen finden wir die beste Lösung.
 
@@ -102,7 +103,7 @@ Wir treffen immer wieder Unternehmen und Startups mit einer starke Kernkompetenz
 
 Alternativ: Bild von Stuttgart
 
-(rechts) Die Stuttgarter Wirtschftsregion steht für höchsten Qualitätsanspruch und dem Streben nach ständiger Verbesserung und Anpassung. Durch Innovation, lokale Partnerschaften und Automation entstehen hochwertige Produkte die weltweit der Marke 2Made in Germany" Das hat uns schon immer inspiriert und steckt uns wortwörtlich in den Genen. Starke lokale Partnerschaften waren schon immer ein Garant für große Synergieffekte.
+(rechts) Die Stuttgarter Wirtschftsregion steht für höchsten Qualitätsanspruch und dem Streben nach ständiger Verbesserung und Anpassung. Durch Innovation, lokale & globale Partnerschaften und einen hohen Automationsgrad entstehen hochwertige Produkte die weltweit stark nachgefragt werden. der Marke 2Made in Germany" Das hat uns schon immer inspiriert und steckt uns wortwörtlich in den Genen. Starke lokale Partnerschaften waren schon immer ein Garant für große Synergieffekte.
 
 - Automation
 - Think global, act local
