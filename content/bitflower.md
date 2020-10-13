@@ -18,9 +18,7 @@ Alternative: Lass uns etwas Schönes schaffen. Durchdacht. Funktional. Zuverläs
 
 (links)
 
-Wir nennen es "beautiful coding". Und unterstützen damit moderne Unternehmen beim Aufbau ihres digitalen Geschäftsmodells. Wir begleiten dich von der Idee bis zum einsatzbereiten Produkt/kommerziellen Erfolg indem wir technisches Know-How, Design und betriebswirtschaftliche Expertise kombinieren.
-
-- ... coding" - die Kunst Technologie, Design und Businessziele unter einen Hut zu bringen.
+Wir nennen es "beautiful coding". Und unterstützen damit moderne Unternehmen beim Aufbau ihres digitalen Geschäftsmodells. Wir begleiten dich von der Idee bis zum kommerziellen Erfolg indem wir technisches Know-How, Design und betriebswirtschaftliche Expertise kombinieren.
 
 ### Prozess (Bild)
 
@@ -36,40 +34,34 @@ Technologie - Design - Business
 
 ### Alles aus einer Hand
 
-Code, Design, Marketing und Analytics fließen bei uns zusammen. (Egal ob eine Leistung direkt von uns stammt oder von einem Partner) wir garantieren beste Resultate und sorgen für einen unkomplizierten Implementierungsablauf deiner digitalen Maßnahme.
+Code, Design, Marketing und Analytics fließen bei uns zusammen. Wir arbeiten interdisziplinär und phasenübergreifend und garantieren dadruch beste Resultate und einen unkomplizierten Implementierungsablauf.
 
-- eng zusammen arbeiten
--
+### Kosteneffizienz
 
-### [WIP] Kosteneffizienz
+Erhalte Qualität Made in Germany zu einem fairen Preis. Wir ereichen dies indem wir modul-basiert und "lean" arbeiten und mit unseren Partnern ein flexibles und zielgerichtetes Umfeld geschaffen haben.
 
-Qualität Made in Germany hat ihren Preis. Nicht jedoch wenn man Dinge schlank und wiederverwendbar gestaltet.
+### Mühelos starten und zusammen wachsen
 
-- Lean
-
-
-### Schnell starten und zusammen wachsen
-
-Alternative: Ein Team
-
-Nutze unsere Erfahrung und Werkzeuge von Anfang an um schnell Resultate zu erleben. Unser Team begleitet Dich bei jedem Entwicklungszyklus. Werde Teil des Teams - zusammen finden wir die beste Lösung.
+Wir sind erfahren teilen unsere Erfshrung und Werkzeuge vom er
+Nutze unsere Erfahrung und Werkzeuge für einen schnellen Start und frühe Erlebbarkeit. Unser Team begleitet Dich bei jedem Entwicklungszyklus. Werde Teil des Teams - zusammen finden wir die beste Lösung.
 
 - erfahren
 - Team
 - von A - Z
 - zusammen
+- begleiten
 
 ## Unser Angebot
 
 (3 Spalten)
 
-### [WIP] Web/App Design & Development
+### // TODO Web/App Design & Development
 
 (Link zu Unterseite)
 
 ### Digital Strategie & Coaching
 
-Solltest Du eine Website, App, Chat-Bot oder Plattform bauen um Dein Geschäftsmodell zu stärken? Die Antwort auf diese Frage und wann welches Mittel richtig ist finden wir zusammen heraus.
+Solltest Du eine Website, App, Chat-Bot oder IoT-Dashboard bauen um Dein Geschäftsmodell zu stärken? Die Antwort auf diese Frage und wann welches Mittel richtig ist finden wir zusammen heraus.
 
 - voranzutreiben
 
@@ -79,31 +71,32 @@ Du willst Dich als Knotenpunkt in Deiner Branche etablieren und Schnittstellen z
 
 (Link zu Unterseite)
 
-## [WIP ]Unsere Story | beautiful coding
+## Unsere Story | beautiful coding
 
 (links) 142 words 1,050 characters
 
 bitflower wurde aus der Leidenschaft heraus gegründet digitale Produkte ganzheitlicher zu entwickeln und den rein technischen Vorgang des "Programmierens" zusammen mit ästhetischem Design, dem zugrunde liegenden Geschäftsmodell und zielführender Strategie zum kommerzielen Erfolg zu führen.
 
+Wir treffen immer wieder Unternehmer mit einer starken  Kernkompetenz die jedoch Unterstützung bei ihren Digitalisierungsmaßnahmen benötigen. Der Wille die Digitlaisierung alleine stemmen wollen ist oft groß. Es droht die Gefahr die falschen Dinge falsch zu tun oder die richtigen Dinge falsch.
+
+Zudem bieten viele Softwarehäuser sehr technische, Ingenieurdenke-getriebene Leistungen an, die häufig am Markt und den Nutzern vorbei gehen und mit der Bereitstellung eines sperrigen Softwarepakets am Ende eine langen Entwicklungswegs enden.
+
+Wir haben uns entschieden dies zu ändern. Mit unserem Full-Service Ansatz schileßen wir diese Lücke.
+
+Zitat/Bildware:
 "It's more important to do the right thing than to do things right." - Peter Drucker
-
-Genauso wie Du dein Geschäft besser kennst als jeder andere kennen wir uns mit digitalen Themen bestens aus.
-
-Sinngemäß: Viele Unternhemen sind stark in Ihrer Kernkompetenz und wollen die Digitlaisierung alleine stämmen. Aber die Digitalisierung ist eine ganz eigene neue Welt die viele eigene Kompetenzen erfordert. Es droht die Gefahr die falschen Dinge falsch zu tun oder die richteigne Ding falsch.
-
-Wir treffen immer wieder Unternehmen und Startups mit einer starke Kernkompetenz an, Unterstützung digital Bereich. Aus eienr Hand Design, Technik, etc.
 
 => Ein gutes Bild ist die "digitale Brücke"
 
 (rechts) Bild von mir (neu)
 
-## [WIP] Made in Stuttgart
+## // TODO Made in Stuttgart
 
 (links) Bild Thomas und ich (neu)
 
 Alternativ: Bild von Stuttgart
 
-(rechts) Die Stuttgarter Wirtschftsregion steht für höchsten Qualitätsanspruch und dem Streben nach ständiger Verbesserung und Anpassung. Durch Innovation, lokale & globale Partnerschaften und einen hohen Automationsgrad entstehen hochwertige Produkte die weltweit stark nachgefragt werden. der Marke 2Made in Germany" Das hat uns schon immer inspiriert und steckt uns wortwörtlich in den Genen. Starke lokale Partnerschaften waren schon immer ein Garant für große Synergieffekte.
+(rechts) Die Stuttgarter Wirtschftsregion steht für höchsten Qualitätsanspruch und dem Streben nach ständiger Verbesserung und Anpassung. Durch Innovation, lokale & globale Partnerschaften und einen hohen Automationsgrad entstehen hochwertige Produkte die weltweit stark nachgefragt werden. der Marke "Made in Germany" Das hat uns schon immer inspiriert und steckt uns wortwörtlich in den Genen. Starke lokale Partnerschaften waren schon immer ein Garant für große Synergieffekte.
 
 - Automation
 - Think global, act local
@@ -111,7 +104,7 @@ Alternativ: Bild von Stuttgart
 Dieser permanente Innovationsmodus
 
 - hat uns geprägt
-- weltweit
+- weltweit nachgefragt
 
 Lokal Bezug / Partnernetz, Qualitätsanspruch deutsche Automobilhersteller
 
@@ -121,7 +114,7 @@ Lokal Bezug / Partnernetz, Qualitätsanspruch deutsche Automobilhersteller
 
 ### Unternehmerisches Denken
 
-Wir wollen es schaffen die Tiefe an Erfahrung und Leidenschaft die Du für dein Geschäft hast zu erfassen und so viel wie möglich davon in das digitale Erlebnis zu integrieren.
+Wir wollen es schaffen die Tiefe an Erfahrung und Leidenschaft die Du für dein Geschäft hast zu erfassen und so viel wie möglich davon in dein digitales Erlebnis zu integrieren.
 
 ### Nutzerorientierung
 
@@ -131,9 +124,9 @@ Deine User, dein Markt und deine Mitarbeiter entscheiden darüber ob eine App fu
 
 "Ein Prototyp sagt mehr als tausend Präsentationen". Wir wollen Dinge für Dich und deine Nutzer erlebbar machen statt Zeit in die Ausarbeitung von Spezifikationen zu stecken.
 
-### [WIP] Sprache
+### Sprache
 
-([WIP]) Wir stellen sicher, dass unser digitales Know-how zugänglich und verständlich ist
+Wir wollen verstanden werden und unser digitales Know-How für Dich zugänglich machen. Fachjargon ist hipp - muss aber nicht sein. 
 
 ## Unsere Partner
 
@@ -151,7 +144,7 @@ Deine User, dein Markt und deine Mitarbeiter entscheiden darüber ob eine App fu
 - Cloud & Operations
 - Service Desk
 
-### [WIP] Optivem
+### // TODO Optivem
 
 - Leistung 1
 - Leistung 2
@@ -163,10 +156,13 @@ Deine User, dein Markt und deine Mitarbeiter entscheiden darüber ob eine App fu
 - Prozessautomatisierung
 - Clean Code & Testing
 
-## [WIP] Footer
+## Footer
 
 (links) Logo
 
-(Mitte)
+(Mitte) bitflower - bautiful coding, Tafingerstraße 14, 71665 Vaihingen
 
-(rechts) Melde Dich bei uns +49 (7042) 77 00 973 hi@bitflower.digital
+(rechts) Starte die Unterhaltung! +49 (7042) 77 00 973 hi@bitflower.digital
+
+### Sub Footer
+bitflower - beautiful coding (c) copyright 2020 Alle REchte vorbehalten
