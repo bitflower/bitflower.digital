@@ -1,23 +1,34 @@
-# Web/App Design & Development
+# Web- und App-Development
 
-## Bestandteile
+## Entwicklung von Web-Anwednungen
 
-### Was man sieht und fühlt: Front End
+Wir arbeiten mit modernen Webtechnologien wie z.B. Javascript, NodeJS
 
-### Welchen Zweck es erfüllt: Geschäftslogik
+## Mobile App-Entwicklung
 
-### Wie Daten und User zusammenarbeiten: Backend
+## Frontend-Entwicklung
+
+Das Frontend ist das Gesicht der digitalen Anwendung. 
+
+## Web & App Analytics & Reporting
+
 
 ## Open Source
 
 ## User Experience (UX)
 
-## Technologien
 
-HTML, CSS und Javascript.
 
 ## Architektur
 
 (links)
 
 (rechts) Bild mit flacher Infrastruktur Grafik
+
+
+## DevOps & Deployment
+
+- Docker
+- AWS
+- SaaS
+- Play Store und Apple AppStore
