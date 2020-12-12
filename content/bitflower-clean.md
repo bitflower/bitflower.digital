@@ -29,7 +29,7 @@ Wir setzen zu 100% auf moderne Webstandards. Sie ermöglichen es hochwertige Mob
 
 Der Browser bietet vieles - häufig sogar alles - was in den meisten Anwendungen benötigt wird. Mit der Einführung von PWAs (Progressive Web Apps) wurden der Funktionsumfang und die Betriebssystemnähe sogar noch erweitert. Somit können Webanwendungen heute fast alles, was früher "echte" Anwendungen konnten.
 
-Wir nutzen etablierte Frameworks für die Umsetzung der Anwendungslogik, setzen aber mehr und mehr auf browser-nahe Spezifikationen wie z.B. *Web Components*. Dies reduziert die Anzahl der eingesetzten Bibliotheken, gewährleistet eine hohe Stabilität und minimiert von Hypes & Trends ausgelöste Neuentwicklungen. SpaceX fliegt damit beispielsweise ins Weltall: (link: https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/ft6bydt/)
+Wir nutzen etablierte Frameworks für die Umsetzung der Anwendungslogik, setzen aber mehr und mehr auf browser-nahe Spezifikationen wie z.B. *Web Components*, die langfristig Bestand haben. Dies reduziert die Anzahl der eingesetzten Bibliotheken, gewährleistet eine hohe Stabilität und minimiert den Neuentwicklungsbedarf der von Hypes & Trends hervorgerufen wird. SpaceX fliegt damit beispielsweise ins Weltall: (link: https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/ft6bydt/)
 
 Frameworks & Tools: Angular, StencilJS, Ionic, Redux, RxJS, React
 Sprachen: Javascript, HTML, CSS, Typescript, SCSS, JSX
@@ -103,7 +103,7 @@ Für diesen Use Case entwicklen wir unsere Anwendungsplattform CaseOS. Kontaktie
 
 ## Referenzen & Branchenkompetenzen
 
-Zu unseren Referenzen zählen Projekte mit Mittelständlern und Konzernen. Da wir häufig unter Geheimhaltungsbedingungen arbeiten im folgenden einige ausgewählte Projektauszüge:
+Zu unseren Referenzen zählen Projekte mit Mittelständlern und Konzernen. Da wir häufig unter Geheimhaltungsbedingungen arbeiten im Folgenden einige ausgewählte Projektauszüge:
 
 - Automotive (Zertifizierung von Fahrzeugen)
 - Industrie 4.0 / IoT (Anbindung von Anlagen, Dashboards, Schnittstellen wie OPC UA)
