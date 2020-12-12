@@ -89,7 +89,7 @@ Cloudanbieter und Plattformen: AWS, Azure, Heroku, MongoDB Atlas
 
 ### Digital Strategie & Coaching
 
-Solltest Du eine Website, App, Chat-Bot oder IoT-Dashboard bauen, um Dein Geschäftsmodell zu stärken? Die Antwort auf diese Frage und wann welches Mittel richtig ist finden wir zusammen heraus.
+Solltest du eine Website, App, Chat-Bot oder IoT-Dashboard bauen, um dein Geschäftsmodell zu stärken? Die Antwort auf diese Frage und wann welches Mittel richtig ist finden wir zusammen heraus.
 
 FRAGWÜRDIGE KATEGORIE?
 
@@ -129,7 +129,7 @@ Wir haben uns entschieden dies zu ändern und für unsere Kunden aus Risiken Cha
 
 ### Unternehmerisches Denken
 
-Wir wollen es schaffen die Tiefe an Erfahrung und Leidenschaft, die Du für dein Geschäft hast, zu erfassen und so viel wie möglich davon in dein digitales Erlebnis zu integrieren.
+Wir wollen es schaffen die Tiefe an Erfahrung und Leidenschaft, die du für dein Geschäft hast, zu erfassen und so viel wie möglich davon in dein digitales Erlebnis zu integrieren.
 
 ### Nutzerorientierung
 
