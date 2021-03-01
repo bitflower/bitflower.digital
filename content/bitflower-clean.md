@@ -55,12 +55,13 @@ Tools: XCode, Android Studio, Visual Studio Code
  Wir setzen unterschiedliche Lösungen für das Benutzer-Tracking von Anwendungen ein. Darunter auch Google Analytics, aber auch kleinere Indie-Anbieter.
  Das Tracking von Anwendungsperformance und -fehlern richten wir individuell je nach Betriebskonzept ein. Auf Wunsch stellen wir den Zugang zu diesen Daten bereit. Wir sorgen aber auch gerne einfach nur für einen reibungslosen Betrieb.
 
-#### Datenbank und Server
+#### Datenbank, Server & APIs
 
 Die Datenbankauswahl findet erfahrungsgemäß individuell auf den Use-Case angepasst statt. Ob eine relationale oder eine NoSQL Datenbank das Richtige ist, müssen die Anforderungen an eine Anwendung ergeben. Auch das ausgewählte Server-Framework kann flexibel gewählt werden und ist durch unser Partnernetzwerk breit gestreut.
 
 Datenbanken: MongoDB, Oracle, Microsoft SQL-Server, MySQL, Filesystem
 Franmeworks: NodeJS, ExpressJS, FeathersJS, .Net, PHP
+API: AWS SDK
 Tools & Methoden: API first, Swagger, PostMan, Studio 3T, MongoDB Compass
 
 #### Open Source
