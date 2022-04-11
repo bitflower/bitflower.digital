@@ -1,0 +1,18 @@
+.skew-bg {
+  position: relative;
+  background: white;
+  --skew: 1.5;
+}
+.skew-bg:after {
+  content: ' ';
+  position: absolute;
+  width: 100%;
+  box-shadow: 1px 1px 40px #002f402a;
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  right: 0;
+  top: calc(var(--skew) / 100 * 100vw);
+  transform: skewY(calc(var(--skew) * -1deg));
+  z-index: -1;
+}

@@ -1,0 +1,143 @@
+{
+  "common": {
+    "durations": {
+      "days": {
+        "singular": "Tag",
+        "plural": "Tage"
+      },
+      "weeks": {
+        "singular": "Woche",
+        "plural": "Wochen"
+      },
+      "months": {
+        "singular": "Monat",
+        "plural": "Monate"
+      },
+      "years": {
+        "singular": "Jahr",
+        "plural": "Jahre"
+      }
+    },
+    "languages": {
+      "english": "Englisch",
+      "french": "Französisch",
+      "german": "Deutsch"
+    },
+    "languageCapability": {
+      "native": "Muttersprache",
+      "pro": "verhandlungssicher",
+      "basic": "Schulkenntnisse"
+    }
+  },
+  "contact": {
+    "claim": "Ich glaube an diesen Ansatz. Deshalb freue ich mich auf einen Austausch über Ihre Business Herausforderungen, Technologie, Digitalstrategie, Design oder App-Ideen.",
+    "commutingArea": "Einzugsgebiet",
+    "commutingAreaDescription": "Ich biete meine Dienstleistungen rund um Web Consulting und Fullstack Development im Raum Stuttgart/Karlsruhe/Heilbronn oder Remote an.",
+    "dropLine": "Oder schreiben Sie mir:",
+    "heading": "Kontakt aufnehmen",
+    "link": "kontakt",
+    "title": "Kontakt mit CaseOS® aufnehmen",
+    "welcomeOffice": "Kommen Sie doch mal auf einen Kaffee vorbei!",
+    "donate": "Einer meiner Onlineinhalte hat Ihnen weitergeholfen?",
+    "buyMeACoffee": "Ich freue mich jederzeit ",
+    "buyMeACoffeeLink": "über einen Kaffee ;-)"
+  },
+  "cv": {
+    "cv": "Professionelle Laufbahn",
+    "dataSource": "Ergebnisse basierend auf den Daten meines CV im JSON-Format",
+    "downloadCV": "CV downloaden",
+    "education": "Ausbildung",
+    "experience": "Projekterfahrung",
+    "heading": "Web Technologie Consultant und Fullstack Developer",
+    "languages": "Fremdsprachen",
+    "title": "CV von CaseOS® - Wir machen ihr digitales Business einfach",
+    "degree": "Diplom-Wirtschaftsinformatiker (FH)",
+    "impact": "Mein idealer Wirkungsbereich",
+    "impactAreas": {
+      "technology1": "Technologie",
+      "technology2": "Entwicklung",
+      "business1": "Branchen-",
+      "business2": "Fachkenntnis",
+      "design1": "Konzeption",
+      "design2": "Design",
+      "product1": "Digitale",
+      "product2": "Lösung"
+    }
+  },
+  "deliverable": {
+    "singular": "Arbeitsergebnis",
+    "plural": "Arbeitsergebnisse"
+  },
+  "deliverables": {
+    "all": "Alle (Kein Filter)",
+    "content": "Content",
+    "desktop": "Desktop",
+    "library": "Library",
+    "masterRecording": "Songs",
+    "app": "Mobile App",
+    "pwa": "Progressive Web App (PWA)",
+    "spa": "Single Page Application (SPA)",
+    "website": "Website"
+  },
+  "global": {
+    "dsgvo": "Um meine Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwende ich Cookies sowie Google Analytics. Durch die weitere Nutzung dieser Webseite stimmen Sie der Verwendung von Cookies zu. Detaillierte Informationen dazu erhalten Sie in meiner Datenschutzerklärung.",
+    "dsgvoOk": "Einverstanden",
+    "mobile": "Mobil",
+    "phone": "Telefon",
+    "sayHello": "Meinen Case bewerten",
+    "whatIsCase": "Was ist ein Case?",
+    "whatIsCaseLink": "was-ist-ein-case",
+    "caseStudies": "Fallstudien",
+    "caseStudiesLink": "cases",
+    "value": "Plattform",
+    "valueLink": "plattform"
+  },
+  "industry": {
+    "singular": "Branche",
+    "plural": "Branchen"
+  },
+  "industries": {
+    "all": "Alle (Kein Filter)"
+  },
+  "landingPage": {
+    "brands": "Firmen, mit denen ich direkt oder als Subunternehmer gearbeitet habe",
+    "cta": "Gespräch vereinbaren",
+    "explore": "Erfahre mehr über meine Projekte und Skills: ",
+    "greeting": "Hi 👋 Ich bin Matthias!",
+    "interactiveCV": "zum interaktiven CV",
+    "intro": "Ich helfe Firmen, Webtechnologien zu Ihrem Vorteil zu nutzen, um Software mit Mehrwert zu erzeugen.",
+    "intro2": "Interdisziplinäre Zusammenarbeit ist in dieser Hinsicht der einzige Weg um erstklassige Ergebnisse zu erzielen. Sowohl als IT-Consultant als auch als professioneller Songwriter habe ich diese Erfahrung wiederholt gemacht."
+  },
+  "task": {
+    "singular": "Tätigkeit",
+    "plural": "Tätigkeiten"
+  },
+  "tasks": {
+    "apidesign": "API Design",
+    "appStore": "App-Store Verwaltung",
+    "cloudhosting": "Hosting (Cloud, OnPremise)",
+    "coaching": "Coaching",
+    "coding": "Entwicklung",
+    "composing": "Komponieren",
+    "customerservice": "Kundenservice",
+    "database": "Datenbankprogrammierung",
+    "datamodelling": "Datenmodellierung",
+    "design": "Design",
+    "designSystem": "Design System",
+    "documentation": "Dokumentation",
+    "frontend": "Frontend",
+    "itarchitecure": "IT Architektur",
+    "musicProduction": "Musikproduktion",
+    "prototyping": "Prototyping",
+    "requirements": "Requirements",
+    "rollout": "Rollout/Deploy",
+    "seo": "SEO",
+    "sounddesign": "Sound Design",
+    "ux": "UI/UX",
+    "visualization": "Visualisierung",
+    "writing": "Autor",
+    "devOps": "DevOps",
+    "unitTest": "Unit Tests",
+    "qa": "Qualitätssicherung"
+  }
+}
