@@ -110,7 +110,7 @@ export class AppRoot {
                   <stencil-route-link url="/" anchorTitle="bitflower®">
                     <app-icon name="logo" />
                   </stencil-route-link>
-                  <p>© 2021 bitflower®</p>
+                  <p>© {new Date().getFullYear()} bitflower®</p>
                   <ul class="external-links list--unstyled">
                     <li>
                       <a rel="noopener" class="link--external" target="_blank" href="https://twitter.com/bitflowertweets" aria-label="Twitter">
