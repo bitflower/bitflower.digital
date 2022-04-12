@@ -107,10 +107,10 @@ export class AppRoot {
             <footer>
               <ResponsiveContainer>
                 <div class="footer-col">
-                  <stencil-route-link url="/" anchorTitle="CaseOS®">
+                  <stencil-route-link url="/" anchorTitle="bitflower®">
                     <app-icon name="logo" />
                   </stencil-route-link>
-                  <p>© 2021 CaseOS®</p>
+                  <p>© 2021 bitflower®</p>
                   <ul class="external-links list--unstyled">
                     <li>
                       <a rel="noopener" class="link--external" target="_blank" href="https://twitter.com/Case__OS" aria-label="Twitter">

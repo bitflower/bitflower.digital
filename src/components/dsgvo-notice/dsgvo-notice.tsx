@@ -2,7 +2,7 @@ import { Component, h, forceUpdate, Fragment } from '@stencil/core';
 
 import i18n from '../../stores/i18n.store';
 
-const KEY = 'caseoscookie';
+const KEY = 'bitflowercookie';
 
 function setCookie(name: string, value: string, days: number) {
   var expires = '';

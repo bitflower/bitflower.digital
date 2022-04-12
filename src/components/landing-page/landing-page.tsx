@@ -9,7 +9,7 @@ import i18n from '../../stores/i18n.store';
 })
 export class LandingPage {
   constructor() {
-    document.title = `CaseOS® - Wir machen Digitalisierung einfach für Sie`;
+    document.title = `bitflower® - Wir machen Digitalisierung einfach für Sie`;
   }
 
   render() {

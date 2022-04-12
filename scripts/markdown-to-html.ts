@@ -61,9 +61,9 @@ const SITE_STRUCTURE_FILE = './src/assets/docs-structure.json';
       };
 
       if (typeof data.title !== 'string') {
-        data.title = 'CaseOS®';
+        data.title = 'bitflower®';
       } else {
-        data.title = data.title.trim() + ' - CaseOS®';
+        data.title = data.title.trim() + ' - bitflower®';
       }
 
       await writeFile(destinationFileName, JSON.stringify(data), {

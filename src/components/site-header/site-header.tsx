@@ -62,7 +62,7 @@ export class SiteHeader {
         <div class="bar">
           <ResponsiveContainer>
             {/* <stencil-route class="burger-menu" url="/docs" component="app-burger" /> */}
-            <stencil-route-link url="/" class="logo-link" anchorTitle="CaseOS®">
+            <stencil-route-link url="/" class="logo-link" anchorTitle="bitflower®">
               <app-icon name="logo" />
             </stencil-route-link>
 
