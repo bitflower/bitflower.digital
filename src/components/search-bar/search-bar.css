@@ -113,7 +113,7 @@ search-bar input::-webkit-search-decoration {
 
 /* Highlighted text */
 #algolia-search .algolia-autocomplete .algolia-docsearch-suggestion--highlight {
-  color: var(--color-dodger-blue);
+  color: var(--color-primary);
   display:inline;
   box-shadow: 0 3px 0 0 var(--color-whisper);;
   padding: 0px;

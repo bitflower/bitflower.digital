@@ -30,7 +30,7 @@ contributor-list a {
   display: inline-block;
   text-align: center;
   text-decoration: none;
-  color: var(--color-dodger-blue);
+  color: var(--color-primary);
   font-size: 11px;
   border: 0;
 }

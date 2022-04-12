@@ -58,11 +58,11 @@ body.dark site-header .icon-logo {
 }
 
 .header-menu .say-hello a {
-  border: 2px solid var(--color-dodger-blue);
+  border: 2px solid var(--color-primary);
   border-radius: 50px;
   padding: 10px 11px;
   line-height: 1;
-  color: var(--color-dodger-blue);
+  color: var(--color-primary);
   font-weight: 500;
 }
 .header-menu .say-hello a:hover::after,
@@ -70,18 +70,18 @@ body.dark site-header .icon-logo {
   content: none;
 }
 .header-menu .say-hello a.link-active {
-  border-bottom-color: var(--color-dodger-blue);
+  border-bottom-color: var(--color-primary);
 }
 
 .header-menu .say-hello:hover a {
-  background: var(--color-dodger-blue);
+  background: var(--color-primary);
   color: white;
-  border-bottom-color: var(--color-dodger-blue);
+  border-bottom-color: var(--color-primary);
 }
 
 .header-menu .say-hello a.link-active {
   color: white;
-  background: var(--color-dodger-blue);
+  background: var(--color-primary);
 }
 
 .header-menu stencil-route-link + stencil-route-link,
@@ -113,8 +113,8 @@ body.dark site-header .icon-logo {
 }
 
 .header-menu a.link-active {
-  color: var(--color-dodger-blue);
-  fill: var(--color-dodger-blue);
+  color: var(--color-primary);
+  fill: var(--color-primary);
 }
 
 body.dark .header-menu a {
@@ -263,7 +263,7 @@ body.dark .header-menu .link--external:hover svg {
     border-bottom-color: rgba(235, 235, 247, 0.4);
   }
   body.dark .header-menu .say-hello a.link-active {
-    border-bottom-color: var(--color-dodger-blue);
+    border-bottom-color: var(--color-primary);
   }
   .header-menu .say-hello a {
     color: white;

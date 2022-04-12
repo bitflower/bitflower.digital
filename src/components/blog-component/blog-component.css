@@ -32,7 +32,7 @@ blog-component .blog-item p {
 }
 
 blog-component .blog-item a {
-  color: var(--color-dodger-blue);
+  color: var(--color-primary);
   text-decoration: none;
   font-weight: 500;
   font-size: 16px;

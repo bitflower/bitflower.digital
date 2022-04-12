@@ -74,7 +74,7 @@
   align-items: center;
   justify-content: center;
   margin-right: 16px;
-  background: var(--color-dodger-blue);
+  background: var(--color-primary);
   color: var(--color-white);
   font-size: 15px;
   font-weight: bold;

@@ -66,7 +66,7 @@ ul a,
 ol a,
 td a {
   transition: border 0.3s;
-  color: var(--color-dodger-blue);
+  color: var(--color-primary);
   text-decoration: none;
   border-bottom: 1px solid transparent;
   font-weight: 500;
@@ -76,7 +76,7 @@ p a:hover,
 ul a:hover,
 ol a:hover,
 td a:hover {
-  border-bottom-color: var(--color-dodger-blue-hover);
+  border-bottom-color: var(--color-primary-hover);
 }
 
 blockquote {
@@ -93,7 +93,7 @@ blockquote p {
 }
 
 .color-dodger-blue {
-  color: var(--color-dodger-blue);
+  color: var(--color-primary);
 }
 
 .u {

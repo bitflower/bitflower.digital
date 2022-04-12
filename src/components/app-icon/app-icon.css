@@ -4,7 +4,7 @@ app-icon .icon-logo {
 }
 
 app-icon .icon-checkmark {
-  fill: var(--color-dodger-blue);
+  fill: var(--color-primary);
   width: 15px;
   height: 11px;
 }
@@ -40,25 +40,25 @@ app-icon .icon-linkedin {
 }
 
 app-icon .icon-menu {
-  fill: var(--color-dodger-blue);
+  fill: var(--color-primary);
   width: 17px;
   height: 15px;
 }
 
 app-icon .icon-close {
-  fill: var(--color-dodger-blue);
+  fill: var(--color-primary);
   width: 14px;
   height: 14px;
 }
 
 app-icon .icon-more {
-  fill: var(--color-dodger-blue);
+  fill: var(--color-primary);
   width: 4px;
   height: 18px;
 }
 
 app-icon .icon-docs {
-  fill: var(--color-dodger-blue);
+  fill: var(--color-primary);
   width: 13px;
   height: 11px;
 }

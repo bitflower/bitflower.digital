@@ -58,11 +58,11 @@ in-page-navigation li.heading-link {
 }
 
 in-page-navigation li.heading-link.selected {
-  border-left: 2px solid var(--color-dodger-blue);
+  border-left: 2px solid var(--color-primary);
 }
 
 in-page-navigation li.heading-link.selected a {
-  color: var(--color-dodger-blue);
+  color: var(--color-primary);
   font-weight: 600;
 }
 
@@ -92,14 +92,14 @@ in-page-navigation li.size-h4 a:hover {
 in-page-navigation .submit-edit-link {
   font-size: 12px;
   display: inline-block;
-  color: var(--color-dodger-blue);
+  color: var(--color-primary);
   font-weight: 600;
   text-decoration: none;
   display: flex;
 }
 
 in-page-navigation .submit-edit-link svg {
-  fill: var(--color-dodger-blue);
+  fill: var(--color-primary);
 }
 
 in-page-navigation .submit-edit-link span {

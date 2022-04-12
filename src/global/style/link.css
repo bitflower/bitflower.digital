@@ -12,11 +12,11 @@
 }
 
 .text-link--primary {
-  color: var(--color-dodger-blue);
+  color: var(--color-primary);
 }
 
 .text-link--primary:hover {
-  border-bottom-color: var(--color-dodger-blue-hover);
+  border-bottom-color: var(--color-primary-hover);
 }
 
 .text-link--secondary {

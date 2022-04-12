@@ -44,7 +44,7 @@ blog-list .blog-item p {
 }
 
 blog-list .read-more a {
-  color: var(--color-dodger-blue);
+  color: var(--color-primary);
   text-decoration: none;
   font-weight: 500;
   font-size: 16px;

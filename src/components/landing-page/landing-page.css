@@ -53,7 +53,7 @@ landing-page .landing-page__intro {
   padding: 20px;
   border-radius: 100px;
   color: white;
-  background: var(--color-dodger-blue);
+  background: var(--color-primary);
   font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
@@ -322,7 +322,7 @@ landing-page .stencil-story p {
 }
 
 landing-page .list--icon svg {
-  fill: var(--color-dodger-blue) !important;
+  fill: var(--color-primary) !important;
 }
 
 landing-page .videos {

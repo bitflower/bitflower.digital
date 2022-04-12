@@ -32,7 +32,7 @@
 }
 
 .btn--primary {
-  background: var(--color-dodger-blue);
+  background: var(--color-primary);
   color: var(--color-white);
 }
 
@@ -43,12 +43,12 @@
 
 .btn--white {
   background: var(--color-white);
-  color: var(--color-dodger-blue);
+  color: var(--color-primary);
 }
 
 .btn--tertiary {
   background: #f4f4fd;
-  color: var(--color-dodger-blue);
+  color: var(--color-primary);
   box-shadow: none;
 }
 

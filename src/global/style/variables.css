@@ -18,10 +18,10 @@
   --color-secondary-rgb: rgb(0, 255, 244);
   --color-secondary-rgba: rgba(0, 255, 244, 1);
 
-  --color-dodger-blue-rgb: 255, 0, 180;
-  --color-dodger-blue: rgb(var(--color-dodger-blue-rgb));
-  --color-dodger-blue-hover: rgba(229, 195, 209, 1);
-  --color-dodger-blue-tint: rgb(255, 51, 194);
+  --color-primary-rgb: 255, 0, 180;
+  --color-primary: rgb(var(--color-primary-rgb));
+  --color-primary-hover: rgba(229, 195, 209, 1);
+  --color-primary-tint: rgb(255, 51, 194);
 
   --color-purplewinkle: #f4f4ff;
 
