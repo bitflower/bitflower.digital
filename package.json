@@ -1,8 +1,8 @@
 {
-  "name": "@case-os/website",
+  "name": "bitflower-website",
   "private": true,
   "version": "0.0.1",
-  "description": "CaseOS® Site",
+  "description": "bitflower® Site",
   "scripts": {
     "build": "npm run site.structure && npm run docs && npm run prerender",
     "build-en": "MMLANG=en npm run site.structure && npm run docs && npm run prerender",
@@ -13,7 +13,8 @@
     "prerender.dev": "stencil build --dev --prerender",
     "site.structure": "tsc --p ./scripts && node ./scripts/site-structure",
     "start": "stencil build --dev --watch --serve",
-    "host": "cd www && python3 -m http.server"
+    "host2": "cd www && python3 -m http.server",
+    "host": "cd www && python3 ../NoCacheHTTPServer.py"
   },
   "devDependencies": {
     "@ionic-internal/ionic-ds": "4.1.4",
@@ -26,7 +27,6 @@
     "@types/node": "^14.0.14",
     "@types/prismic-dom": "^2.1.1",
     "@types/prismjs": "^1.16.1",
-    "algoliasearch": "^4.3.0",
     "copy-text-to-clipboard": "^2.2.0",
     "dotenv": "^8.2.0",
     "front-matter": "^3.2.1",
@@ -46,12 +46,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/case-os/website.git"
+    "url": "git+https://github.com/bitflower/website.git"
   },
   "bugs": {
-    "url": "https://github.com/case-os/website"
+    "url": "https://github.com/bitflower/website"
   },
-  "homepage": "https://case-os.io/",
+  "homepage": "https://bitflower.digital/",
   "dependencies": {
     "@matthiasmax/cv-api": "^1.0.12",
     "@stencil/store": "^1.4.1"
