@@ -2,7 +2,7 @@ import { Component, Fragment, h, State } from '@stencil/core';
 import { ResponsiveContainer } from '@ionic-internal/ionic-ds';
 import { milestones, projects } from '@matthiasmax/cv-api';
 
-import i18n from '../../stores/i18n.store';
+import i18n from '../../../stores/i18n.store';
 import { calcAverageDuration } from './utils';
 
 const lebenslauf = [...milestones.reverse()];

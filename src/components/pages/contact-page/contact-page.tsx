@@ -1,7 +1,7 @@
 import { Component, Element, h } from '@stencil/core';
 import { ResponsiveContainer } from '@ionic-internal/ionic-ds';
 
-import i18n from '../../stores/i18n.store';
+import i18n from '../../../stores/i18n.store';
 
 @Component({
   tag: 'contact-page',

@@ -1,7 +1,7 @@
 import { Component, h } from '@stencil/core';
 import { ResponsiveContainer } from '@ionic-internal/ionic-ds';
 
-import i18n from '../../stores/i18n.store';
+import i18n from '../../../stores/i18n.store';
 
 @Component({
   tag: 'landing-page',
@@ -30,9 +30,10 @@ export class LandingPage {
           {/* <img class="landing-page__bg" src="/assets/img/profile.jpg" loading="lazy" alt="Profilbild von Matthias Max" /> */}
         </ResponsiveContainer>
 
-        {/* <div class="companies">
+        <div class="companies">
           <ResponsiveContainer>
-            <h3 class="no-print-font">{i18n.landingPage.brands}</h3>
+            <focus-topics />
+            {/* <h3 class="no-print-font">{i18n.landingPage.brands}</h3>
             <ul class="brands">
               <li>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 57.2" height="20">
@@ -432,9 +433,9 @@ export class LandingPage {
             </ul>
             <p class="cta__secondary">
               {i18n.landingPage.explore} <stencil-route-link url="/cv">{i18n.landingPage.interactiveCV}</stencil-route-link>
-            </p>
+            </p> */}
           </ResponsiveContainer>
-        </div> */}
+        </div>
 
         {/* <div>
           <p>
