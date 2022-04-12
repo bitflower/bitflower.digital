@@ -80,17 +80,19 @@
     "website": "Website"
   },
   "global": {
+    "about": "Über bitflower",
+    "aboutLink": "bitflower",
     "dsgvo": "Um meine Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwende ich Cookies sowie Google Analytics. Durch die weitere Nutzung dieser Webseite stimmen Sie der Verwendung von Cookies zu. Detaillierte Informationen dazu erhalten Sie in meiner Datenschutzerklärung.",
     "dsgvoOk": "Einverstanden",
     "mobile": "Mobil",
     "phone": "Telefon",
-    "sayHello": "Meinen Case bewerten",
-    "whatIsCase": "Was ist ein Case?",
-    "whatIsCaseLink": "was-ist-ein-case",
+    "sayHello": "Mein Digitalprojekt besprechen",
+    "whatIsCase": "Leistungen",
+    "whatIsCaseLink": "leistungen",
     "caseStudies": "Fallstudien",
-    "caseStudiesLink": "cases",
-    "value": "Plattform",
-    "valueLink": "plattform"
+    "caseStudiesLink": "fallstudien",
+    "value": "Fokusthemen",
+    "valueLink": "fokusthemen"
   },
   "industry": {
     "singular": "Branche",

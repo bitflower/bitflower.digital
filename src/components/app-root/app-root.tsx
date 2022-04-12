@@ -99,6 +99,8 @@ export class AppRoot {
                 <stencil-route url={`/${i18n.global.caseStudiesLink}`} component="case-list" exact={true} />
                 <stencil-route url={`/${i18n.global.caseStudiesLink}/:caseName`} routeRender={({ match }) => <case-component page={match!.url}></case-component>} />
 
+                <stencil-route url={`/${i18n.global.aboutLink}`} component="contact-page" exact={true} />
+
                 <stencil-route url="/cv" component="cv-page" />
                 <stencil-route url={`/${i18n.contact.link}`} component="contact-page" />
                 <stencil-route component="notfound-page"></stencil-route>

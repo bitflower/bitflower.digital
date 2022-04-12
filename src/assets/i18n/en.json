@@ -80,17 +80,19 @@
     "website": "Website"
   },
   "global": {
+    "about": "About bitflower",
+    "aboutLink": "bitflower",
     "dsgvo": "I use cookies and Google Analytics to improve your experience. By your continued use of this site you accept such use. To change your settings please see our policy.",
     "dsgvoOk": "Ok",
     "mobile": "Mobile",
     "phone": "Phone",
-    "sayHello": "Check my case",
-    "whatIsCase": "What is a case?",
-    "whatIsCaseLink": "what-is-a-case",
+    "sayHello": "Discuss my digital project",
+    "whatIsCase": "Services",
+    "whatIsCaseLink": "services",
     "caseStudies": "Case studies",
-    "caseStudiesLink": "cases",
-    "value": "Platform",
-    "valueLink": "platform"
+    "caseStudiesLink": "case-studies",
+    "value": "Focus topics",
+    "valueLink": "focus-topics"
   },
   "industry": {
     "singular": "Industry",

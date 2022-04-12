@@ -59,17 +59,19 @@ interface I18nCommon {
   };
 }
 interface I18nGlobal {
+  about: string;
+  aboutLink: string;
+  caseStudies: string;
+  caseStudiesLink: string;
   dsgvo: string;
   dsgvoOk: string;
   mobile: string;
   phone: string;
   sayHello: string;
-  whatIsCase: string;
-  whatIsCaseLink: string;
-  caseStudies: string;
-  caseStudiesLink: string;
   value: string;
   valueLink: string;
+  whatIsCase: string;
+  whatIsCaseLink: string;
 }
 interface I18nLandingPage {
   brands: string;
