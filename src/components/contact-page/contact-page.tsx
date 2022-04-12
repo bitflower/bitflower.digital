@@ -41,13 +41,13 @@ export class ContactPage {
           </a>
           <br />
           Twitter:&nbsp;
-          <a href="https://twitter.com/Case__OS" target="blank">
-            @Case__OS
+          <a href="https://twitter.com/bitflowertweets" target="blank">
+            @bitflowertweets
           </a>
           <br />
           LinkedIn:&nbsp;
-          <a href="https://www.linkedin.com/company/case-os" target="blank">
-            https://www.linkedin.com/company/case-os
+          <a href="https://www.linkedin.com/company/bitflower" target="blank">
+            https://www.linkedin.com/company/bitflower
           </a>
           <br />
         </p>

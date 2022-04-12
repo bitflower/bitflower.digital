@@ -115,12 +115,12 @@ export class SiteHeader {
 
               <ul class="external-links list--unstyled">
                 <li>
-                  <a rel="noopener" class="link--external" target="_blank" href="https://twitter.com/Case__OS" aria-label="Twitter">
+                  <a rel="noopener" class="link--external" target="_blank" href="https://twitter.com/bitflowertweets" aria-label="Twitter">
                     <app-icon name="twitter"></app-icon>
                   </a>
                 </li>
                 <li>
-                  <a rel="noopener" class="link--external" target="_blank" href="https://www.linkedin.com/company/case-os" aria-label="LinkedIn">
+                  <a rel="noopener" class="link--external" target="_blank" href="https://www.linkedin.com/company/bitflower" aria-label="LinkedIn">
                     <app-icon name="linkedin"></app-icon>
                   </a>
                 </li>
