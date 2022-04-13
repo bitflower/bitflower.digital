@@ -21,7 +21,7 @@ export const config: Config = {
   outputTargets: [
     {
       type: 'www',
-      baseUrl: `https://bitflower-website.vercel.app//`, // TODO: Use real url
+      baseUrl: `https://bitflower-website.vercel.app/`, // TODO: Use real url
       // baseUrl: `https://case-os.${LANG === 'de' ? 'de' : 'com'}/`,
       prerenderConfig: './prerender.config.ts',
       serviceWorker: {
