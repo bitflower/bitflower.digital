@@ -30,7 +30,7 @@ landing-page .hero hgroup p {
   font-size: 20px;
   line-height: 1.6;
   font-weight: 400;
-  color: var(--color-dolphin);
+  color: var(--color-woodsmoke);
   max-width: 75%;
 }
 
@@ -194,7 +194,7 @@ landing-page .cta__primary code.copied {
 landing-page .cta__primary span,
 landing-page .cta__primary span a {
   font-size: 11px;
-  color: var(--color-dolphin);
+  color: var(--color-woodsmoke);
 }
 
 landing-page .cta__primary span a,
@@ -273,7 +273,7 @@ landing-page h6 {
 landing-page p,
 landing-page ul {
   margin: 0;
-  color: var(--color-dolphin);
+  color: var(--color-woodsmoke);
   font-size: 17px;
   line-height: 1.7;
 }
