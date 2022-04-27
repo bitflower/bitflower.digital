@@ -52,7 +52,6 @@ stencil-router {
   }
 
   main {
-    padding-top: 320px;
     min-height: 100vh;
   }
 }
