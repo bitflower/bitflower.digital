@@ -19,7 +19,8 @@
   --color-secondary-rgba: rgba(0, 255, 244, 1);
 
   --color-primary-rgb: 255, 0, 180;
-  --color-primary: rgb(var(--color-primary-rgb));
+  --color-primary: #1B93DD;
+  /* --color-primary: rgb(var(--color-primary-rgb)); */
   --color-primary-hover: rgba(229, 195, 209, 1);
   --color-primary-tint: rgb(255, 51, 194);
 

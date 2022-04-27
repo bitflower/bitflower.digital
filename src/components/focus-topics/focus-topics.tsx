@@ -1,5 +1,4 @@
-import { Component, Element, h } from '@stencil/core';
-import { ResponsiveContainer } from '@ionic-internal/ionic-ds';
+import { Component, Element, h, Host } from '@stencil/core';
 
 import i18n from '../../stores/i18n.store';
 
@@ -16,14 +15,14 @@ export class FocusTopics {
 
   render() {
     return (
-      <ResponsiveContainer>
+      <Host>
         <h1 class="no-print-font">
           <span class="color-dodger-blue">Hyper Automation.</span>
         </h1>
         <h1 class="no-print-font">
           <span>Manuellen Aufwand maximal reduzieren.</span>
         </h1>
-      </ResponsiveContainer>
+      </Host>
     );
   }
 }

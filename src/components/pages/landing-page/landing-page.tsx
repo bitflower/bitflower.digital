@@ -12,26 +12,43 @@ export class LandingPage {
     document.title = `bitflower® - Wir machen Digitalisierung einfach für Sie`;
   }
 
+  /**
+   * Fokus:
+   * - Individual Software
+   *  - Was ist es?
+   *  - Warum es nicht teuerer ist
+   *  - Warum es sich auszahlt im Vgl zu Standardsoftware
+   * - Mittelstand
+   *
+   */
+
   render() {
     return (
       <div>
         <ResponsiveContainer class="hero">
           <hgroup>
             <h1 class="no-print-font">
-              <span class="color-dodger-blue">Wir machen Digitalisierung einfach für Sie. </span>Damit Sie einfach <span class="u">Ihr Business</span> machen können.
+              <span class="color-dodger-blue">{i18n.landingPage.intro} </span>Damit Sie einfach <span class="u">Ihr Business</span> machen können.
             </h1>
-            {/* <h2 class="no-print-font">{i18n.landingPage.greeting}</h2>
-            <p class="landing-page__intro no-print-font">{i18n.landingPage.intro}</p>
-            <p class="no-print-font">&bdquo;{i18n.landingPage.intro2}&rdquo; &#8212; Matthias Max</p> */}
-            <stencil-route-link url={`/${i18n.contact.link}`} class="hero-button hide-print" anchorClass="btn-get-started">
+            <p>{i18n.landingPage.greeting}</p>
+            <stencil-route-link url={`/${i18n.global.caseStudiesLink}`} class="hero-button hide-print" anchorClass="btn-get-started">
               {i18n.landingPage.cta}
             </stencil-route-link>
+            {/* <stencil-route-link url={`/${i18n.global.caseStudiesLink}`} class="hero-button hide-print" anchorClass="btn-get-started">
+              {i18n.landingPage.explore}
+            </stencil-route-link> */}
           </hgroup>
-          {/* <img class="landing-page__bg" src="/assets/img/profile.jpg" loading="lazy" alt="Profilbild von Matthias Max" /> */}
         </ResponsiveContainer>
+        <img class="landing-page__bg" src="/assets/img/bg1.jpg" loading="lazy" alt="Illustration für Landing Page" />
 
         <div class="companies">
           <ResponsiveContainer>
+            <h2>Warum individuelle Software ?</h2>
+            <p>
+              Durch die Digitalisierung werden immer mehr Bereiche Ihres Unternehmens mit Software ausgestattet. Über die Zeit entsteht eine Insellandschaft aus Datensilos und
+              zusammengesetzten Standardlösungen.
+            </p>
+            <h2>Warum individuelle Software ?</h2>
             <focus-topics />
             {/* <h3 class="no-print-font">{i18n.landingPage.brands}</h3>
             <ul class="brands">

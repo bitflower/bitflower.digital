@@ -52,7 +52,7 @@ stencil-router {
   }
 
   main {
-    padding-top: 92px;
+    padding-top: 320px;
     min-height: 100vh;
   }
 }
@@ -70,10 +70,13 @@ footer .ui-container {
 }
 footer .footer-col {
   flex: 1;
-}
-
-footer .footer-col {
+  /* text-align: center; */
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  max-width: 320px;
+  margin: auto;
 }
 
 footer p {
@@ -81,7 +84,6 @@ footer p {
   line-height: 170%;
   letter-spacing: -0.02em;
   color: #626265;
-  margin: 8px 0 16px;
 }
 
 footer app-icon .icon-logo {
@@ -93,6 +95,11 @@ footer app-icon .icon-logo {
 
 footer .external-links {
   display: inline-flex;
+}
+
+footer .external-links li {
+  display: flex;
+  align-items: center;
 }
 
 footer .external-links li a {

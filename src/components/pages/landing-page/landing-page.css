@@ -30,18 +30,13 @@ landing-page .hero hgroup p {
   font-size: 20px;
   line-height: 1.6;
   font-weight: 400;
-  color: var(--color-woodsmoke);
-  max-width: 75%;
+  /* color: var(--color-woodsmoke); */
+  /* max-width: 75%; */
 }
 
 landing-page .hero hgroup p:last-of-type {
   margin-top: 30px;
-  margin-bottom: 120px;
-  font-weight: 500;
-}
-
-landing-page .landing-page__intro {
-  margin-bottom: 5px;
+  margin-bottom: 60px;
 }
 
 .btn-get-started,
@@ -50,7 +45,7 @@ landing-page .landing-page__intro {
   text-decoration: none;
   color: inherit;
   display: inline-block;
-  padding: 20px;
+  padding: 15px;
   border-radius: 100px;
   color: white;
   background: var(--color-primary);
@@ -85,41 +80,30 @@ landing-page .hero stencil-route-link + stencil-route-link {
   margin-left: 10px;
 }
 
-landing-page .hero .landing-page__bg {
+landing-page .landing-page__bg {
   position: absolute;
   z-index: 1;
-  top: 50%;
+  top: 0;
   right: 0;
-  transform: translate(-64px, -41%);
-  margin-top: 20px;
-  height: 673px;
 }
 
+@media screen and (max-width: 1340px) {
+  landing-page .landing-page__bg {
+    max-width: 40%;
+    top: 20%;
+  }
+}
 @media screen and (max-width: 1024px) {
   landing-page .hero {
     margin-bottom: 0;
   }
 
-  landing-page .hero .landing-page__bg {
-    position: relative;
-    height: 450px;
-    left: 60%;
-    transform: translate(-25%, -10%);
-    margin-top: 0;
-    top: -70px;
+  landing-page .landing-page__bg {
+    display: none;
   }
 }
 
 @media screen and (max-width: 768px) {
-  landing-page .hero .landing-page__bg {
-    height: auto;
-    width: 90%;
-    transform: none;
-    left: auto;
-    margin-top: 120px;
-    top: 0;
-  }
-
   landing-page .hero hgroup p {
     max-width: 100%;
   }

@@ -102,13 +102,13 @@
     "all": "All (No filter)"
   },
   "landingPage": {
-    "brands": "Some brands I've worked with directly or as sub contrator",
-    "cta": "Start a conversation",
-    "explore": "Explore my projects and skills in the",
-    "greeting": "Hi 👋 I'm Matt!",
-    "interactiveCV": "interactive CV",
-    "intro": "I help companies utilize Digitalization to their advantage to create software with business value.",
-    "intro2": "I believe in interdisciplinary collaboration as the only way to achieve superior results. I've seen it happen many times both as IT-Consultant and professional songwriter."
+    "brands": "Firmen, mit denen ich direkt oder als Subunternehmer gearbeitet habe",
+    "cta": "Go to customer projects",
+    "explore": "Meine Potentiale prüfen",
+    "greeting": "Geschäfte machen bedeutet heute: vernetzt sein, effizient arbeiten, Transparenz schaffen und permanent Innovation zu leben. Unsere maßgeschneiderten Software-Lösungen helfen, diese Ziele mit Ihren Unternehmenskompetenzen zu erreichen.",
+    "interactiveCV": "zum interaktiven CV",
+    "intro": "Wir machen Digitalisierung einfach für Sie.",
+    "intro2": ""
   },
   "task": {
     "singular": "Task",
