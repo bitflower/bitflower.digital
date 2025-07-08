@@ -5,7 +5,7 @@ import { milestones, projects } from '@matthiasmax/cv-api';
 import i18n from '../../../stores/i18n.store';
 import { calcAverageDuration } from './utils';
 
-const lebenslauf = [...milestones.reverse()];
+const lebenslauf = [...milestones[i18n.lang].reverse()];
 
 @Component({
   tag: 'cv-page',
@@ -258,11 +258,14 @@ export class cvPage {
                   <img class="cv-page__profileimg" src="/assets/img/profile.jpg" loading="lazy" alt="Profilbild von Matthias Max" />
 
                   <div class="professional-kpis">
-                    <kpi-value label="Erfahrung" value={`${new Date().getFullYear() - Math.min(...projects.map(p => p.year))} ${i18n.common.durations.years.plural}`} />
-                    <kpi-value label="Projekte" value={projects.length.toString()} />
+                    <kpi-value
+                      label="Erfahrung"
+                      value={`${new Date().getFullYear() - Math.min(...projects[i18n.lang].map((p: any) => p.year))} ${i18n.common.durations.years.plural}`}
+                    />
+                    <kpi-value label="Projekte" value={projects[i18n.lang].length.toString()} />
                     <kpi-value
                       label="&#8709; Dauer"
-                      value={`${Math.round((calcAverageDuration(projects) / 365 + Number.EPSILON) * 100) / 100} ${i18n.common.durations.years.plural}`}
+                      value={`${Math.round((calcAverageDuration(projects[i18n.lang]) / 365 + Number.EPSILON) * 100) / 100} ${i18n.common.durations.years.plural}`}
                     />
                   </div>
 

@@ -123,6 +123,22 @@ export namespace Components {
         "items": TimeLineItem[];
     }
 }
+export interface GuideCalloutCustomEvent<T> extends CustomEvent<T> {
+    detail: T;
+    target: HTMLGuideCalloutElement;
+}
+export interface HubspotModalCustomEvent<T> extends CustomEvent<T> {
+    detail: T;
+    target: HTMLHubspotModalElement;
+}
+export interface ProjectDeliverablesFilterCustomEvent<T> extends CustomEvent<T> {
+    detail: T;
+    target: HTMLProjectDeliverablesFilterElement;
+}
+export interface ProjectIndustryFilterCustomEvent<T> extends CustomEvent<T> {
+    detail: T;
+    target: HTMLProjectIndustryFilterElement;
+}
 declare global {
     interface HTMLAnnouncementBarElement extends Components.AnnouncementBar, HTMLStencilElement {
     }
@@ -448,13 +464,13 @@ declare namespace LocalJSX {
     interface FocusTopics {
     }
     interface GuideCallout {
-        "onToggleModal"?: (event: CustomEvent<any>) => void;
+        "onToggleModal"?: (event: GuideCalloutCustomEvent<any>) => void;
     }
     interface HighlightCode {
     }
     interface HubspotModal {
         "active"?: boolean;
-        "onToggleModal"?: (event: CustomEvent<any>) => void;
+        "onToggleModal"?: (event: HubspotModalCustomEvent<any>) => void;
     }
     interface InPageNavigation {
         "currentPageUrl"?: string;
@@ -494,10 +510,10 @@ declare namespace LocalJSX {
         "project": Project;
     }
     interface ProjectDeliverablesFilter {
-        "onMmChange"?: (event: CustomEvent<string>) => void;
+        "onMmChange"?: (event: ProjectDeliverablesFilterCustomEvent<string>) => void;
     }
     interface ProjectIndustryFilter {
-        "onMmChange"?: (event: CustomEvent<string>) => void;
+        "onMmChange"?: (event: ProjectIndustryFilterCustomEvent<string>) => void;
     }
     interface ProjectList {
         "deliverable"?: string;

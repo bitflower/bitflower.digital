@@ -1,24 +1,18 @@
 {
   "compilerOptions": {
+    "skipLibCheck": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "allowUnreachableCode": false,
     "declaration": false,
     "experimentalDecorators": true,
-    "lib": [
-      "dom",
-      "es2017"
-    ],
+    "lib": ["dom", "es2017"],
     "moduleResolution": "node",
     "module": "commonjs",
     "target": "es2017",
     "noUnusedLocals": true,
     "noUnusedParameters": true
   },
-  "include": [
-    ".",
-  ],
-  "exclude": [
-    "node_modules"
-  ]
+  "include": ["."],
+  "exclude": ["node_modules"]
 }

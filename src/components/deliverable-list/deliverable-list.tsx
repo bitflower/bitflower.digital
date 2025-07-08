@@ -1,5 +1,6 @@
 import { projects } from '@matthiasmax/cv-api';
 import { Component, h } from '@stencil/core';
+import i18n from '../../stores/i18n.store';
 // import { ResponsiveContainer } from '@ionic-internal/ionic-ds';
 
 @Component({
@@ -13,6 +14,6 @@ export class DeliverableList {
   //
   // --------------------------------------------------------------------------
   render() {
-    return projects.sort((a, b) => (a.title > b.title ? 1 : a.title < b.title ? -1 : 0)).map(project => <project-card project={project} />);
+    return projects[i18n.lang].sort((a: any, b: any) => (a.title > b.title ? 1 : a.title < b.title ? -1 : 0)).map((project: any) => <project-card project={project} />);
   }
 }

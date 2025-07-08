@@ -1,5 +1,6 @@
 import { Project, projects } from '@matthiasmax/cv-api';
 import { Build, Component, h, Prop, State, Watch } from '@stencil/core';
+import i18n from '../../stores/i18n.store';
 
 import { compare } from '../../global/common';
 // import { ResponsiveContainer } from '@ionic-internal/ionic-ds';
@@ -46,7 +47,7 @@ export class ProjectList {
   // --------------------------------------------------------------------------
 
   @State()
-  private selected: Project[] = sort(projects);
+  private selected: Project[] = sort(projects[i18n.lang]);
 
   private isBreakPageMode: boolean;
 
@@ -57,10 +58,10 @@ export class ProjectList {
   // --------------------------------------------------------------------------
 
   private filter() {
-    const filteredIndustries1 = !this.industry ? projects : projects.filter(project => project.industry === this.industry);
+    const filteredIndustries1 = !this.industry ? projects[i18n.lang] : projects[i18n.lang].filter((project: any) => project.industry === this.industry);
     const filteredIndustries2 = !this.deliverable
       ? filteredIndustries1
-      : filteredIndustries1.filter(project => this.deliverable && (project.deliveryTypes as string[]).includes(this.deliverable));
+      : filteredIndustries1.filter((project: any) => this.deliverable && (project.deliveryTypes as string[]).includes(this.deliverable));
     this.selected = sort(filteredIndustries2);
   }
 
